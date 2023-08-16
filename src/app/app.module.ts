@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
+//Todos los componentes deben ir declarados en el app.module.ts
 @NgModule({
   declarations: [
     AppComponent

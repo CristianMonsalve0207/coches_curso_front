@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  //Asi se crean los atributos en typescript
   title = 'coches-curso-front';
 }
